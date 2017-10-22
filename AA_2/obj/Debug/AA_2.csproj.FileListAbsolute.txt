@@ -1,0 +1,5 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_2\AA_2\bin\Debug\AA_2.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_2\AA_2\bin\Debug\AA_2.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_2\AA_2\bin\Debug\AA_2.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_2\AA_2\obj\Debug\AA_2.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_2\AA_2\obj\Debug\AA_2.pdb
